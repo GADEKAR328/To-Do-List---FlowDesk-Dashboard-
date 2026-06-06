@@ -18,6 +18,12 @@ Try the dashboard instantly without installation.
 
 ---
 
+## 📸 Dashboard Preview
+
+![FlowDesk Dashboard](https://raw.githubusercontent.com/GADEKAR328/To-Do-List---FlowDesk-Dashboard-/19ba63a3ee271edb6434c4580462660baf857cc8/Screenshot%20-%20To-Do-List---FlowDesk-Dashboard-_.jpg)
+
+---
+
 ## 📁 File Structure
 
 ```text
