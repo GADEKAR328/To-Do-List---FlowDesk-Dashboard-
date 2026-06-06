@@ -1,14 +1,26 @@
 # FlowDesk — Task & Productivity Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://gadekar328.github.io/To-Do-List---FlowDesk-Dashboard-/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue)](https://gadekar328.github.io/To-Do-List---FlowDesk-Dashboard-/)
+
 A clean, production-ready task and productivity dashboard built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — just open and use.
 
 **Created by Yogesh Gadekar**
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Open Application:**  
+https://gadekar328.github.io/To-Do-List---FlowDesk-Dashboard-/
+
+Try the dashboard instantly without installation.
+
+---
+
 ## 📁 File Structure
 
-```
+```text
 FlowDesk/
 ├── index.html   → Main HTML structure
 ├── style.css    → All styling (light theme, Times New Roman font)
@@ -18,40 +30,50 @@ FlowDesk/
 
 ## 🚀 How to Use
 
-1. Clone or download this repo
+1. Clone or download this repository
 2. Open `index.html` in any browser
-3. No server, no install, no dependencies needed
+3. No installation or server setup required
 
-> **Note:** Uses [Chart.js 4.4.1](https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js) loaded from CDN — internet connection required for charts.
+> **Note:** Uses Chart.js 4.4.1 loaded from CDN. Internet connection is required for charts.
 
 ---
 
 ## ✨ Features
 
-- **Dashboard** — KPI cards (total, completed, pending, completion rate) + mini charts
-- **All Tasks** — Full task list with search, filter by priority / category / due date
-- **Analytics** — Daily / weekly / monthly completion trends, priority & category breakdowns
-- **Settings** — Clear completed tasks or reset the entire dashboard
-- **Add / Edit / Delete** tasks with name, category, priority, and due date
-- **Overdue alerts** — tasks past due date are highlighted automatically
-- **localStorage** — all data saved in your browser, persists across sessions
-- **Responsive** — sidebar collapses to icons on smaller screens
+- Dashboard with KPI cards and performance metrics
+- Task Management (Add, Edit, Delete)
+- Search and Filter tasks
+- Daily, Weekly, and Monthly Analytics
+- Priority and Category Tracking
+- Overdue Task Alerts
+- localStorage Data Persistence
+- Responsive Design for Desktop and Mobile
 
 ---
 
 ## 🛠 Tech Stack
 
-| Layer      | Technology                        |
-|------------|-----------------------------------|
-| HTML       | Semantic HTML5                    |
-| CSS        | Custom CSS with CSS variables     |
-| JavaScript | Vanilla JS (ES6+)                 |
-| Charts     | Chart.js 4.4.1 (CDN)             |
-| Font       | Times New Roman (system font)     |
-| Storage    | localStorage (browser-native)     |
+| Layer | Technology |
+|--------|------------|
+| HTML | Semantic HTML5 |
+| CSS | Custom CSS |
+| JavaScript | Vanilla JS (ES6+) |
+| Charts | Chart.js 4.4.1 |
+| Storage | localStorage |
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Submit a Pull Request
 
 ---
 
 ## 📄 License
 
-Free to use and modify for personal or commercial projects.
+Free to use, modify, and distribute for personal or commercial projects.
